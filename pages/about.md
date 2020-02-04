@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: All about me and my life #optional sub title to the post
 permalink: /about/
-header_feature_image:  /uploads/log.jpg #replace this for yours
+header_feature_image:  _uploads/tomatoes.jpg
 tags:
 published: true
 description:
