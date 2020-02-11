@@ -11,11 +11,11 @@ tags:
   - Writing
 ---
 
-What makes a good book cover? Is it colourful? Is it illustrated? Does it convey what’s inside effectively? Though the answers to these questions may be obvious, defining what constitutes a ‘good’ book cover is in actuality hard to pin down. 
+What makes a good book cover? Is it colourful? Is it illustrated? Does it convey what’s inside effectively? Though the answers to these questions may be obvious, defining what constitutes a ‘good’ book cover is in actuality hard to pin down.
 
 For example, take a look at these covers:
 
-[![Three minimalist book covers.](/_uploads/three-minimalist-book-covers.png)](/_uploads/three-minimalist-book-covers.png)
+[![Three good book cover examples](/_uploads/three-good-book-cover.png)](/_uploads/three-good-book-cover.png)
 
 Are these good covers? What factors decide whether or not minimalist covers are aesthetically pleasing? They rarely (if only subtly) express the books content and – as in the cases above – utilise colour sparingly, and yet - I’d argue - most people would consider the above examples ‘good’ covers. What factors help make this decision and why do we innately know when a cover is appealing or bad?
 To grasp even a liminal understanding of this, we must first understand what makes a cover ‘bad’. A Google search for “bad book covers” returned these:
