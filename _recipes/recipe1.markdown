@@ -17,7 +17,7 @@ Bulgogi, literally "fire meat", is a _gui_ made of thin, marinated slices of bee
 
 <!--more-->
 
-[![Bulgogi](//_uploads/basic-bulgogi.jpg)](//_uploads/basic-bulgogi.jpg)
+[![Bulgogi](/_uploads/basic-bulgogi.jpg)](/_uploads/basic-bulgogi.jpg)
 
 ## Ingredients
 
