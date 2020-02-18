@@ -17,7 +17,7 @@ Kimchi, a staple in Korean cuisine, is a famous traditional side dish of salted 
 
 <!--more-->
 
-[![Kimchi](//_uploads/AdobeStock_211090230.jpeg)](//_uploads/AdobeStock_211090230.jpeg)
+[![Kimchi](/_uploads/AdobeStock_211090230.jpeg)](/_uploads/AdobeStock_211090230.jpeg)
 
 ## Ingredients
 
