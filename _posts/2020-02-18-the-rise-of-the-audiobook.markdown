@@ -2,8 +2,8 @@
 layout: post
 title: The Rise of the Audiobook
 date: 2020-02-18 09:53
-published: false
-header_feature_image:
+published: true
+header_feature_image: _uploads/malte-wingen-PDX_a_82obo-unsplash.jpg
 caption:
 tags:  
   - Books
