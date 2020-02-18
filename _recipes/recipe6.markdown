@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Hotteok
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -11,43 +11,35 @@ tags:
   - Main
 ---
 
-# Recipe Title
+# Hotteok
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hotteok is a type of filled Korean pancake; it is a popular street food in South Korea.
 
 <!--more-->
 
+[![Hotteok](/_uploads/hotteok.png)](/_uploads/hotteok.png)
+
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
+- 1 & 1/4 cup (157 g, 5.5 ounces) all purpose flour
+- 1/2 tsp fine sea salt
+- 1 tsp white sugar
+- 1 tsp instant dry yeast
+- 1/2 cup (125ml) lukewarm milk
+- Cooking oil
 
+### Filling
+
+- 1/4 cup dark brown sugar
+- 1/4 tsp cinnamon powder
+- 2 Tbsp crushed nuts of your choice (I used walnuts. Peanuts, almond slices and sunflower seeds are also popular choices.)
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Sieve through the flour into a large bowl then add the salt, sugar, yeast and milk. Mix them well into a dough and cover the bowl with plastic wrap. Ferment it at a comfortable room temperature until the dough doubles in size. (Mine took 1 hour at room temperature 27 C/80.6 F but it could vary depending on the effectiveness of your yeast and also your room temperature.)
+2. Once the dough is raised, release the gas by punching the dough with your hands a few times. Cover with the wrap again and rest for another 20 mins.
+3. When the dough is ready, put some cooking oil on your hands (for anti stick purpose) and separate the dough to allow 6 medium sized pancakes to be made.
+4. Put one of the pieces of dough on your hand, flatten the dough with your hands so that you can add about 1 Tbsp size filling onto it. Once it’s done, seal the dough by gathering the corners. Repeat this for the remaining dough.
+5. Preheat a frying pan on medium heat and once it’s heated add a thin layer of cooking oil.
+6. Place a dough (1 or more depending on size of your pan. If more, allow enough room to expand between the dough when pressed down) into the pan and cook it on medium heat until the bottom side is lightly golden brown (about 30 seconds). Flip it over and press the dough down with a solid turner or professional press. Cook until the bottom part is golden brown (about 1 min). Flip the pancake over one last time then reduce the heat to low. Cover the pan with a lid and cook until the sugar filing fully melts (about 1 min).  – It is still edible if you don’t further cook with a lid on but not all the sugar filling will be melted.
+7. Transfer the pancake onto a plate and repeat step 6 for the remaining dough.

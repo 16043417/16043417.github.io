@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Kimchi Jeon
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -11,43 +11,33 @@ tags:
   - Main
 ---
 
-# Recipe Title
+# Kimchi Jeon
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kimchi-buchimgae or kimchi pancake, sometimes also referred to as kimchi-jeon, is a variety of buchimgae, or Korean pancake. It is primarily made with sliced kimchi, flour batter and sometimes other vegetables. However, meat is also often added.
 
 <!--more-->
 
+[![Kimchi Jeon](/_uploads/kimchi-jeon.png)](/_uploads/kimchi-jeon.png)
+
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
-
+- 2 1/2 cups all-purpose flour
+- 2 1/2 cups water
+- 1/2 tsp fine sea salt
+- 1 large egg , beaten
+- 2 cups Kimchi (about 420 g / 15 ounces)
+- 1 Tbsp Kimchi liquid
+- 5 ice cubes (about 100 g / 3.5 ounces)
+- 2 green chili (optional)
+- 1 red chili (optional)
+- Some vegetable cooking oil
+- Homemade Kimchi pancake dipping sauce
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Make the pancake batter per the following. Sieve the flour and the salt. Add the water and whisk it well. Add the beaten egg, Kimchi, Kimchi liquid and chilies. Mix them well. Add the ice cubes to keep the batter cold.
+2. Pre heat a pan / skillet until well heated. Put a generous amount of cooking oil into the pan. Make sure the oil is spread all the way over the pan.
+3. Scoop out the pancake mixture with a ladle, pour it out on the pan. Make sure it is evenly spread.
+4. Cook the mixture on high heat initially for 10 to 20 seconds then reduce the heat to medium to low. (Cook and finish with this temperature setting.)
+5. Turn the pancake over when 70% of the pancake is cooked. Meaning the bottom of the pancake is cooked and the top of the pancake is also partially cooked. This makes it easy to turn the pancake. Press the pancake with the spatula a couple of times to make it crispy.
+6. When both sides are cooked, slice it into easy to bite-size. Serve.
