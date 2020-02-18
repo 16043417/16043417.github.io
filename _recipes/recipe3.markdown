@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Kimchi Jjigae
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -11,43 +11,37 @@ tags:
   - Main
 ---
 
-# Recipe Title
+# Kimchi Jjigae
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kimchi-jjigae or kimchi stew is a jjigae, or stew-like Korean dish, made with kimchi and other ingredients, such as scallions, onions, diced tofu, pork, tuna and seafood. It is one of the most common jjigae in Korea.
 
 <!--more-->
 
+[![Kimchi Jjigae](/_uploads/kimchi-jjigae.png)](/_uploads/kimchi-jjigae.png)
+
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
-
+- 3/4 pound beef (thinly sliced)
+- 1 tablespoon sesame oil
+- 2 cups kimchi (the kind made with Napa cabbage), roughly chopped
+- 1/2 onion (chopped)
+- 2 cloves garlic (finely chopped)
+- 1 tablespoon gochujang (Korean hot pepper paste)
+- 1 tablespoon gochugaru (Korean chili flakes)
+- 1 tablespoon soy sauce
+- 3 cups water
+- 1/2 block tofu (cubed)
+- 2 scallions (chopped)
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Sauté the beef in 1/2 tablespoon sesame oil in a soup pot for a few minutes.
+2. Add kimchi to pot and stir-fry for about 5 minutes.
+3. Add remaining oil, onion, garlic, gochujang, gochugaru, and soy sauce, mixing to combine.
+4. Pour the water into the pot and bring to a boil. Reduce heat to simmer.
+5. Cook for 20 to 30 minutes, adding the tofu after the first 10 minutes.
+6. Add the scallions at the very end.
+7. Serve this stew immediately after cooking, accompanied with steamed white rice.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Serves: 4
+- Preparation time: 2 hours

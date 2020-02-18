@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Any Recipe
+title: Tteokbokki
 date: 2019-10-19
 excerpt_separator: <!--more-->
 published: true
@@ -11,43 +11,29 @@ tags:
   - Main
 ---
 
-# Recipe Title
+# Tteokbokki
 
-This introduces the recipe and is a pargaraph of text. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Tteok-bokki or stir-fried rice cakes is a popular Korean food made from small-sized garae-tteok called tteokmyeon or commonly tteok-bokki-tteok. Eomuk, boiled eggs, and scallions are some of the most commonly added ingredients.
 
 <!--more-->
 
 ## Ingredients
 
-- 1 kg just add the
-- 160 ml ingredients in here
-- 1 large something, finely sliced
-- 450 grams minced beef
-- 1 glass white wine (not retsina, but aretsinoto)
-- 350 grams fresh tomatoes,
-- 1400 grams tomatoes, drained of some of their juice and chopped
-- teaspoon ground cinnamon
-- teaspoon ground allspice
-- salt and black pepper
-- 1 teaspoon oregano
-- 25 grams grated Parmesan, Kefalotiri, or Gruyere cheese
-- some chopped parsley
-- 80 grams butter
-- 80 grams flour
-- 600 ml warm milk
-- 30 grams grated Parmesan or Gruyere cheese
-- 2 egg yolks
-- 4 tablespoons toasted breadcrumbs
-
+- 1 pound tteokbokki tteok
+- 1 sheet eomuk (fish cake)
+- 4 ounces green cabbage (yangbaechu)
+- 1 - 2 scallions
+- 3 cups anchovy broth or water
+- 3 tablespoons Korean red chili pepper paste gochujang
+- 1 - 3 teaspoons Korean red chili pepper flakes gochugaru
+- 1 tablespoons soy sauce
+- 2 tablespoons sugar
+- 1 tablespoon corn syrup or 1 more tablespoon sugar
+- 1 tablespoon minced garlic
 
 ## Method
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### For the sauce
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+1. Make anchovy broth (see note). Soak the rice cakes for about 20 minutes if hardened or refrigerated. Cut the fish cake, cabbage, and scallions into about 2-inch long pieces.
+2. Add the anchovy broth (or water) to a large pan. Stir in the sauce ingredients. Bring it to a boil over medium high heat, stirring to dissolve the red chili pepper paste (gochujang).
+3. Add the rice cakes. Boil until the rice cakes become very soft and the sauce is thickened, about 8 - 10 minutes. Stir frequently so the rice cakes don't stick to the bottom of the pan.
+4. Add the vegetables and fish cakes. Continue to boil, stirring constantly, for an additional 4 - 6 minutes. Depending on rice cakes, you may need more time to reach a desired level of softness. Add more broth or water as necessary. Taste the sauce, and adjust the seasoning if needed. Serve immediately.
