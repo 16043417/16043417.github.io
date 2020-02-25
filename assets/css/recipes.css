@@ -10,7 +10,7 @@ div.branding {
   margin:0 auto;
   max-width: 650px;
   min-width: 300px;
-  padding: 40px;
+  padding: 40px 40px 0 40px;
   text-align:left;
   font-family:arial;
   font-size: 90%;
@@ -33,12 +33,11 @@ div.content {
 }
 
 img {
-  float:right;
-  max-width: 50%;
 }
 
 h1.title {
   font-size:2em;
+  font-variant: small-caps;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
@@ -79,6 +78,10 @@ table {
 
 td, th {
 
+}
+
+h2 {
+  font-variant: small-caps;
 }
 
 
