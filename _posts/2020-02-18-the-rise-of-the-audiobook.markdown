@@ -7,8 +7,8 @@ header_feature_image: _uploads/malte-wingen-PDX_a_82obo-unsplash.jpg
 caption:
 tags:  
   - Books
-  - Covers
-  - Writing
+  - Audiobook
+  - Media
 ---
 
 Forbes reported that “U.S. Audiobook Sales Neared $1 Billion In 2018, Growing 25% Year-Over-Year”  in an article which detailed the rise of audiobooks. This format, the descendant of the audio CD, has seen an impressive rise in popularity in recent years, dominating in many of the ways eBooks were expected to do so. But there is an interesting caveat to this success: “the percentage of Americans who have ever listened to an audiobook stands at 44%, just one point up from 2015's 43%”  which suggests that the consumer base for audiobooks hasn’t expanded. So why are sales increasing?
