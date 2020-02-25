@@ -8,10 +8,4 @@ published: true
 hide: false
 ---
 
-Here is an introduction to my recipe site
-
-You should use **markdown** to write this text and this will automatically be converted to `HTML`.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This cookbook, a collection of 10 handpicked recipes, introduces the reader to the often overlooked and relatively unknown wonders of Korean cooking. Everyone knows what Japanese sushi is and there's probably a Chinese restaurant within a mile of where you're sitting now, but what is Korean food? Healthy, addictive, and growing in popularity, Korean cuisine is famous for its balancing and use of the five main tastes: sweet, sour, spicy, salty, and bitter. The rising tide of Korean culture brings with it these ten recipes, chosen for their relative fame, ease of assembly, and – of course – amazing taste. Korean food can be hard to approach, at first. What are these ingredients I’ve never heard of? How do I even pronounce the name of this recipe? This cookbook exists to guide you into the world of East Asian Korean cuisine, breaking everything down, simplifying each step, and enabling you to taste the food everyone’s going crazy about from the comfort of your own home.
