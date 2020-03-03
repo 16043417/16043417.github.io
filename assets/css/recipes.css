@@ -140,4 +140,8 @@ ul.recipes li, ul.recipes a {
     margin:0px auto;
     background-color: none;
   }
+
+  body {
+    background-color: white;
+  }
 }
