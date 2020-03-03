@@ -33,7 +33,7 @@ div.content {
 }
 
 img {
-    max-width: 90%;
+    max-width: 90;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -110,7 +110,7 @@ a {
 }
 
 body.recipeshome header.site-header {
-    diplay: none;
+    display: none;
 }
 
 /* for a menu for all recipes */
