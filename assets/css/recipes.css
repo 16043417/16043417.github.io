@@ -112,11 +112,19 @@ body.recipeshome header.site-header {
 
 /* for a menu for all recipes */
 ul.recipes {
-  border: 1px solid gray;
-  width: 15%;
-  float:right;
-  font-size: 60%;
-  position: absolute;
-  top:40px;
-  right:20px;
+    border: 1px solid gray;
+    width: 15%;
+    float:right;
+    font-size: 60%;
+    position: fixed;
+    top:10px;
+    right:8px;
+    -webkit-box-shadow: 0px 0px 15px 4px rgba(0,0,0,0.53);
+    box-shadow: 0px 0px 15px 4px rgba(0,0,0,0.53);
+}
+
+u.recipes li, ul.recipes a {
+    text-indent:none;
+    list-style: none;
+    margin-left: 0;
 }
