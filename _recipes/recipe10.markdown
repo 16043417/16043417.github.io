@@ -13,7 +13,7 @@ tags:
 
 # Haemul Pajeon
 
-Pajeon is a variety of jeon with scallion as its prominent ingredient, as pa means scallion. It is a Korean dish made from a batter of eggs, wheat flour, rice flour, scallions, and often other ingredients depending on the variety.
+Pajeon is a variety of _jeon_ with scallion as its prominent ingredient, as _pa_ means scallion. It is a Korean dish made from a batter of eggs, wheat flour, rice flour, scallions, and often other ingredients depending on the variety.
 
 <!--more-->
 
