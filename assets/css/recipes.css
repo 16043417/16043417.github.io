@@ -131,3 +131,11 @@ ul.recipes li, ul.recipes a {
     list-style: none;
     margin-left: 0;
 }
+
+@media only screen and (max-width: 600px) {
+  body.recipeshome .content {
+    width: 90%;
+    padding:0;
+    maring:0px auto;
+  }
+}
