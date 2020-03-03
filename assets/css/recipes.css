@@ -117,7 +117,7 @@ body.recipeshome header.site-header {
 ul.recipes {
     border: 1px solid gray;
     background-color: white;
-    width: 15%;
+    width: 20%;
     float:right;
     font-size: 60%;
     position: fixed;
