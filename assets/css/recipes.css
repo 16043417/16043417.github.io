@@ -134,7 +134,5 @@ ul.recipes li, ul.recipes a {
 }
 
 @media only screen and (max-width: 600px) {
-  body {
-    background-color: white;
-  }
+
 }
