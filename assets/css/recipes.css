@@ -113,6 +113,7 @@ body.recipeshome header.site-header {
 /* for a menu for all recipes */
 ul.recipes {
     border: 1px solid gray;
+    background-color: white;
     width: 15%;
     float:right;
     font-size: 60%;
