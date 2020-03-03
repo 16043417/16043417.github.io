@@ -7,37 +7,37 @@ html {
 }
 
 div.branding {
-  margin:0 auto;
-  max-width: 650px;
-  min-width: 300px;
-  padding: 40px 40px 0 40px;
-  text-align:left;
-  font-family:arial;
-  font-size: 90%;
-  background-color:white;
+    margin:0 auto;
+    max-width: 650px;
+    min-width: 300px;
+    padding: 40px 40px 0 40px;
+    text-align:left;
+    font-family:arial;
+    font-size: 90%;
+    background-color:white;
 }
 
 div.content {
-  margin:0 auto;
-  max-width: 650px;
-  min-width: 300px;
-  padding: 40px;
-  text-align:left;
-  font-family:arial;
-  font-size: 90%;
-  background-color:white;
+    margin:0 auto;
+    max-width: 650px;
+    min-width: 300px;
+    padding: 40px;
+    text-align:left;
+    font-family:arial;
+    font-size: 90%;
+    background-color:white;
 }
 
 .post-content h1, .excerpt h1 {
-  display:none;
+    display:none;
 }
 
 img {
-      max-width: 50%;
+    max-width: 50%;
 }
 
 h1.title {
-  font-size:2em;
+    font-size:2em;
 }
 
 article, aside, details, figcaption, figure, footer, header, hgroup,
@@ -54,16 +54,16 @@ body {
 }
 
 h1.site-title {
-  font-size: 5em;
-  text-align: center;
-  font-family: "Bitter";
-  margin-bottom: 0px;
+    font-size: 5em;
+    text-align: center;
+    font-family: "Bitter";
+    margin-bottom: 0px;
 }
 
 img.cover {
-float:right;
-width:30%;
-margin:12px;
+    float:right;
+    width:30%;
+    margin:12px;
 }
 
 
@@ -81,7 +81,7 @@ td, th {
 }
 
 h2 {
-  font-variant: small-caps;
+    font-variant: small-caps;
 }
 
 
@@ -107,7 +107,7 @@ a {
 }
 
 body.recipeshome header.site-header {
-    diplay:none;
+    diplay: none;
 }
 
 /* for a menu for all recipes */
