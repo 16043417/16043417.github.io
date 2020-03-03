@@ -17,7 +17,7 @@ Pajeon is a variety of jeon with scallion as its prominent ingredient, as pa mea
 
 <!--more-->
 
-[![Haemul Pajeon](/_uploads/haemul-pajeon.png)](/_uploads/haemul-pajeon.png)
+[![Haemul Pajaeon](/_uploads/IMG_0758-e1498707201139.jpg)](/_uploads/IMG_0758-e1498707201139.jpg)
 
 ## Ingredients
 
