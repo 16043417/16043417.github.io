@@ -161,6 +161,10 @@ ul.recipes li, ul.recipes a {
       padding: 20px;
     }
 
+    a. {
+      color: white;
+    }
+
     body.recipe .content {
       width: 90%;
       padding: 0;
