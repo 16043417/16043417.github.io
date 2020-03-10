@@ -59,7 +59,7 @@ body {
 h1.site-title {
     font-size: 5em;
     text-align: center;
-    font-family: "Bitter";
+    font-family: "Bitter", "Georgia", "Serif"; 
     margin-bottom: 0px;
 }
 
@@ -182,8 +182,8 @@ ul.recipes li, ul.recipes a {
       font-size: 80%
     }
 
-    body.recipe {
-      /* font-size: 80%; */
+    body.recipe, body.recipelist {
+      font-size: 80%;
       text-align: justify;
     }
 
