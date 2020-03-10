@@ -183,7 +183,7 @@ ul.recipes li, ul.recipes a {
     }
 
     body.recipe {
-      font-size: 80%;
+      /* font-size: 80%; */
       text-align: justify;
     }
 
