@@ -163,6 +163,12 @@ ul.recipes li, ul.recipes a {
       padding: 20px;
     }
 
+    body.recipelist .branding {
+      background-color: #c69050;
+      margin: 0;
+      padding: 20px;
+    }
+
     body.recipe .content {
       width: 90%;
       padding: 0;
