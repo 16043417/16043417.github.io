@@ -144,10 +144,6 @@ ul.recipes li, ul.recipes a {
       text-align: justify;
     }
 
-    body.recipeslist .h1 {
-      font-size: 100%;
-    }
-
     body {
       background-color: white;
       margin:0;
