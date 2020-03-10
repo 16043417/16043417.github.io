@@ -142,9 +142,6 @@ ul.recipes li, ul.recipes a {
       padding: 10px;
       margin: 0px auto;
       text-align: justify;
-      border: 5px solid #c69050;
-      background: #c69050;
-      color: white;
     }
 
     body.recipeslist .content {
