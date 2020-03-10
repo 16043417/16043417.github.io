@@ -29,13 +29,13 @@ Dak-galbi, or spicy stir-fried chicken, is a popular Korean dish made by stir-fr
 - 2 scallions
 
 ### Sauce
-- 1-1/2 to 2 tablespoons gochugaru Korean red chili pepper flakes
+- 1-½ to 2 tablespoons gochugaru Korean red chili pepper flakes
 - 1 tablespoon sugar
 - 1 to 2 teaspoons Korean curry powder optional
-- 1/2 teaspoon salt
+- ½ teaspoon salt
 - 1 tablespoon soy sauce
 - 2 tablespoons rice wine
-- 1/2 tablespoon corn syrup or more sugar
+- ½ tablespoon corn syrup or more sugar
 - 1 tablespoon gochujang Korean red chili pepper paste
 - 1 tablespoon minced garlic
 - 1 teaspoon grated ginger

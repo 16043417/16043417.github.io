@@ -24,8 +24,8 @@ Kimchi, a staple in Korean cuisine, is a famous traditional side dish of salted 
 - 3-8 pounds napa cabbage
 - 2 bunches green onions trimmed of the root bits
 - 2-3 large carrots peeled, thinly julienned
-- 1/2 cup kosher salt
-- 1/2 cup Korean chili powder
+- ½ cup kosher salt
+- ½ cup Korean chili powder
 - 15-20 cloves garlic overdoing garlic makes this stay on your breath more than usual., peeled
 - 4-6 inches ginger peeled, rough chopped
 - 1 tablespoon fish sauce
@@ -34,7 +34,7 @@ Kimchi, a staple in Korean cuisine, is a famous traditional side dish of salted 
 
 ## Method
 
-1. Cut the napa cabbage in half longways, then in half again longways. Cut the core out of the four quarters. Cut the cabbage into squares (about 2-3 inches square), pop it in a bowl with the carrots. Sprinkle with the 1/2 cup kosher salt, massage so everything is coated in salt and starting to soften and wilt. Fill with cold, chlorine free water to cover it well and let it soak for at least 1 1/2 hours.
+1. Cut the napa cabbage in half longways, then in half again longways. Cut the core out of the four quarters. Cut the cabbage into squares (about 2-3 inches square), pop it in a bowl with the carrots. Sprinkle with the ½ cup kosher salt, massage so everything is coated in salt and starting to soften and wilt. Fill with cold, chlorine free water to cover it well and let it soak for at least 1 ½ hours.
 2. Pour the cabbage and carrots and liquid into a strainer. Let the brine drain away.
 3. Lob off the white bits of the green onions and put them in a food processor with the garlic cloves, ginger, miso paste, and Korean pepper powder. Zap it on high 'til it's smooth-ish. Add in the fish sauce and a couple of slops of pear juice and zap it more until it's about pancake batter consistency... maybe a bit thinner.
 4. Put the brined cabbage/carrots in a big, anti-reactive (glass, enamel, or stainless steel) bowl. Rough chop the green parts of the onions and add those to the cabbage/carrots. Pour the chili paste combo over the cabbage and wear gloves to massage it all over the cabbage/carrots green onions so everything is completely covered.

@@ -21,9 +21,9 @@ Kimchi-buchimgae or kimchi pancake, sometimes also referred to as kimchi-jeon, i
 
 ## Ingredients
 
-- 2 1/2 cups all-purpose flour
-- 2 1/2 cups water
-- 1/2 tsp fine sea salt
+- 2 ½ cups all-purpose flour
+- 2 ½ cups water
+- ½ tsp fine sea salt
 - 1 large egg , beaten
 - 2 cups Kimchi (about 420 g / 15 ounces)
 - 1 Tbsp Kimchi liquid

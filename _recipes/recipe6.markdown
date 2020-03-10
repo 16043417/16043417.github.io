@@ -21,17 +21,17 @@ Hotteok is a type of filled Korean pancake; it is a popular street food in South
 
 ## Ingredients
 
-- 1 & 1/4 cup (157 g, 5.5 ounces) all purpose flour
-- 1/2 tsp fine sea salt
+- 1 & ¼ cup (157 g, 5.5 ounces) all purpose flour
+- ½ tsp fine sea salt
 - 1 tsp white sugar
 - 1 tsp instant dry yeast
-- 1/2 cup (125ml) lukewarm milk
+- ½ cup (125ml) lukewarm milk
 - Cooking oil
 
 ### Filling
 
-- 1/4 cup dark brown sugar
-- 1/4 tsp cinnamon powder
+- ¼ cup dark brown sugar
+- ¼ tsp cinnamon powder
 - 2 Tbsp crushed nuts of your choice (I used walnuts. Peanuts, almond slices and sunflower seeds are also popular choices.)
 
 ## Method

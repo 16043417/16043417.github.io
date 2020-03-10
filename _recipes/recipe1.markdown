@@ -22,10 +22,10 @@ Bulgogi, literally "fire meat", is a _gui_ made of thin, marinated slices of bee
 ## Ingredients
 
 - 1 ½ lb ribeye steak (700 g), or any other well-marbled, tender cut
-- 1 onion, <sup>1</sup>&frasl;<sub>2</sub> roughly chopped and <sup>1</sup>&frasl;<sub>2</sub> thinly sliced
+- 1 onion, ½ roughly chopped and ½ thinly sliced
 - 3 cloves garlic cloves
 - ½ pear, peeled and roughly chopped
-- 3 spring onions, 1 cut into pieces and 2 sliced into <sup>1</sup>&frasl;<sub>4</sub>-inch rounds
+- 3 spring onions, 1 cut into pieces and 2 sliced into ¼-inch rounds
 - 3 tablespoons brown sugar
 - 1 teaspoon black pepper
 - ⅓ cup soy sauce (80 g)

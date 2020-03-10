@@ -34,7 +34,7 @@ Japchae is a sweet and savory dish of stir-fried glass noodles and vegetables th
 ### Sauce
 
 - 3 tablespoons soy sauce
-- 2 1/2 tablespoons sugar (or brown sugar)
+- 2 ½ tablespoons sugar (or brown sugar)
 - 2 tablespoons sesame oil
 - 2 teaspoons minced garlic
 - 2 teaspoons roasted sesame seeds

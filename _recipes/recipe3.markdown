@@ -21,21 +21,21 @@ Kimchi-jjigae or kimchi stew is a jjigae, or stew-like Korean dish, made with ki
 
 ## Ingredients
 
-- 3/4 pound beef (thinly sliced)
+- ¾ pound beef (thinly sliced)
 - 1 tablespoon sesame oil
 - 2 cups kimchi (the kind made with Napa cabbage), roughly chopped
-- 1/2 onion (chopped)
+- ½ onion (chopped)
 - 2 cloves garlic (finely chopped)
 - 1 tablespoon gochujang (Korean hot pepper paste)
 - 1 tablespoon gochugaru (Korean chili flakes)
 - 1 tablespoon soy sauce
 - 3 cups water
-- 1/2 block tofu (cubed)
+- ½ block tofu (cubed)
 - 2 scallions (chopped)
 
 ## Method
 
-1. Sauté the beef in 1/2 tablespoon sesame oil in a soup pot for a few minutes.
+1. Sauté the beef in ½ tablespoon sesame oil in a soup pot for a few minutes.
 2. Add kimchi to pot and stir-fry for about 5 minutes.
 3. Add remaining oil, onion, garlic, gochujang, gochugaru, and soy sauce, mixing to combine.
 4. Pour the water into the pot and bring to a boil. Reduce heat to simmer.

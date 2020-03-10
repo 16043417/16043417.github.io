@@ -27,7 +27,7 @@ Bibimbap, sometimes romanized as bi bim bap or bi bim bop, is a Korean rice dish
 - 1 Tbsp soy sauce
 - 1 Tbsp sesame oil
 - 1 tsp sugar – I used brown sugar
-- 1/4 tsp minced garlic
+- ¼ tsp minced garlic
 
 ### Vegetables and other
 
@@ -35,7 +35,7 @@ Bibimbap, sometimes romanized as bi bim bap or bi bim bop, is a Korean rice dish
 - 350g (0.8 pounds) mildly seasoned bean sprouts – (You don’t have to use them up if you think it’s too much but I love having lots of vegetables on my Bibimbap!)
 - 100g (3.5 ounces) shiitake mushroom
 - 120g (4.2 ounces) carrots (1 small)
-- 1/2 tsp fine sea salt (1/4 tsp each will be used when cooking shiitake mushroom and carrots)
+- ½ tsp fine sea salt (¼ tsp each will be used when cooking shiitake mushroom and carrots)
 - 3 to 4 serving portions of steamed rice
 - 3 or 4 eggs (depending on the serving portion)
 - Some cooking oil to cook the meat, mushroom, carrots and eggs – I used rice bran oil.
@@ -57,7 +57,7 @@ Bibimbap, sometimes romanized as bi bim bap or bi bim bop, is a Korean rice dish
 2. Mix the Bibimbap sauce ingredients in a bowl.
 3. Spinach and bean sprouts per linked recipe.
 4. Rinse, peel and julienne the carrots. Add some cooking oil and 1/4 tsp of fine sea salt in a wok and cook the carrots on medium high to high heat for 2 to 3 mins.
-5. Clean/rinse the shiitake mushrooms and thinly slice them. Add some cooking oil and 1/4 tsp of fine sea salt in a wok and cook the mushrooms on medium high to high heat until they are all cooked.
+5. Clean/rinse the shiitake mushrooms and thinly slice them. Add some cooking oil and ¼ tsp of fine sea salt in a wok and cook the mushrooms on medium high to high heat until they are all cooked.
 6. Fry eggs
 7. Put the rice into a bowl and add the meat, assorted vegetables, seasoned seaweed, Bibimbap sauce and the egg on top of the rice.
 8. Serve it.
