@@ -144,6 +144,14 @@ ul.recipes li, ul.recipes a {
       text-align: justify;
     }
 
+    body.recipeslist .content {
+      width: 90%;
+      padding: 10px;
+      margin: 0px auto;
+      text-align: justify;
+      font-size: 90%
+    }
+
     body {
       background-color: white;
       margin:0;
