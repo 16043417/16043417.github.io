@@ -146,6 +146,7 @@ ul.recipes li, ul.recipes a {
     body {
       background-color: white;
       margin:0;
+      text-align: justify;
     }
 
     body.recipe .branding {
