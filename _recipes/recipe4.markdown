@@ -13,7 +13,7 @@ tags:
 
 # Dak Galbi
 
-Dak-galbi, or spicy stir-fried chicken, is a popular Korean dish made by stir-frying marinated diced chicken in a gochujang-based sauce with sweet potatoes, cabbage, perilla leaves, scallions, tteok, and other ingredients. In Korean, galbi means rib. But Dak-galbi is not actually chicken's rib.
+Dak-galbi, or spicy stir-fried chicken, is a popular Korean dish made by stir-frying marinated diced chicken in a gochujang-based sauce with sweet potatoes, cabbage, perilla leaves, scallions, _tteok_, and other ingredients. In Korean, _galbi_ means rib. But Dak-galbi is not actually chicken's rib.
 
 <!--more-->
 

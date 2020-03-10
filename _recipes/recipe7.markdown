@@ -13,7 +13,7 @@ tags:
 
 # Bibimbap
 
-Bibimbap, sometimes romanized as bi bim bap or bi bim bop, is a Korean rice dish. The term "bibim" means mixing various ingredients, while the "bap" noun refers to rice. Bibimbap is served as a bowl of warm white rice topped with namul or kimchi and gochujang, soy sauce, or doenjang.
+Bibimbap, sometimes romanized as _bi-bim-bap_ or _bi-bim-bop_, is a Korean rice dish. The term "_bibim_" means mixing various ingredients, while the "_bap_" noun refers to rice. Bibimbap is served as a bowl of warm white rice topped with _namul_ or kimchi and gochujang, soy sauce, or _doenjang_.
 
 <!--more-->
 
@@ -32,13 +32,13 @@ Bibimbap, sometimes romanized as bi bim bap or bi bim bop, is a Korean rice dish
 ### Vegetables and other
 
 - 250g (0.6 pounds) mildly seasoned spinach
-- 350g (0.8 pounds) mildly seasoned bean sprouts – (You don’t have to use them up if you think it’s too much but I love having lots of vegetables on my Bibimbap!)
+- 350g (0.8 pounds) mildly seasoned bean sprouts
 - 100g (3.5 ounces) shiitake mushroom
 - 120g (4.2 ounces) carrots (1 small)
 - ½ tsp fine sea salt (¼ tsp each will be used when cooking shiitake mushroom and carrots)
 - 3 to 4 serving portions of steamed rice
 - 3 or 4 eggs (depending on the serving portion)
-- Some cooking oil to cook the meat, mushroom, carrots and eggs – I used rice bran oil.
+- Some cooking oil to cook the meat, mushroom, carrots and eggs
 - Korean seasoned seaweed, shredded (long thin cut)
 
 ### Bibimbap sauce

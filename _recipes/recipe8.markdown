@@ -13,7 +13,7 @@ tags:
 
 # Kimchi Jeon
 
-Kimchi-buchimgae or kimchi pancake, sometimes also referred to as kimchi-jeon, is a variety of buchimgae, or Korean pancake. It is primarily made with sliced kimchi, flour batter and sometimes other vegetables. However, meat is also often added.
+Kimchi-buchimgae or kimchi pancake, sometimes also referred to as kimchi-jeon, is a variety of _buchimgae_, or Korean pancake. It is primarily made with sliced kimchi, flour batter and sometimes other vegetables. However, meat is also often added.
 
 <!--more-->
 

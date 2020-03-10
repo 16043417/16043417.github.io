@@ -32,7 +32,7 @@ Hotteok is a type of filled Korean pancake; it is a popular street food in South
 
 - ¼ cup dark brown sugar
 - ¼ tsp cinnamon powder
-- 2 Tbsp crushed nuts of your choice (I used walnuts. Peanuts, almond slices and sunflower seeds are also popular choices.)
+- 2 Tbsp crushed nuts of your choice
 
 ## Method
 

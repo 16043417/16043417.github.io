@@ -13,7 +13,7 @@ tags:
 
 # Kimchi Jjigae
 
-Kimchi-jjigae or kimchi stew is a jjigae, or stew-like Korean dish, made with kimchi and other ingredients, such as scallions, onions, diced tofu, pork, tuna and seafood. It is one of the most common jjigae in Korea.
+Kimchi-jjigae or kimchi stew is a _jjigae_, or stew-like Korean dish, made with kimchi and other ingredients, such as scallions, onions, diced tofu, pork, tuna and seafood. It is one of the most common _jjigae_ in Korea.
 
 <!--more-->
 

@@ -29,7 +29,7 @@ Pajeon is a variety of _jeon_ with scallion as its prominent ingredient, as _pa_
 
 ### Batter
 
-- 1 cup Korean pancake mix, buchim garu, 부침가루 See note.
+- 1 cup Korean pancake mix, _buchim-garu_
 
 ### Dipping Sauce
 

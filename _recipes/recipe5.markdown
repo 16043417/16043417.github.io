@@ -13,7 +13,7 @@ tags:
 
 # Tteokbokki
 
-Tteok-bokki or stir-fried rice cakes is a popular Korean food made from small-sized garae-tteok called tteokmyeon or commonly tteok-bokki-tteok. Eomuk, boiled eggs, and scallions are some of the most commonly added ingredients.
+Tteok-bokki or stir-fried rice cakes is a popular Korean food made from small-sized _garae-tteok_ called _tteokmyeon_ or commonly _tteok-bokki-tteok_. _Eomuk_, boiled eggs, and scallions are some of the most commonly added ingredients.
 
 <!--more-->
 

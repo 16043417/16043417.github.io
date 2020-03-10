@@ -26,7 +26,7 @@ Japchae is a sweet and savory dish of stir-fried glass noodles and vegetables th
 - 1 small sweet onion
 - 2 scallions
 - 4 ounces lean beef (sirloin or rib eye)
-- 4 - 5 dried shiitake mushrooms, soaked until plump or fresh mushrooms - see note
+- 4 - 5 dried shiitake mushrooms, soaked until plump or fresh mushrooms
 - 6 ounces fresh spinach
 - Vegetable oil for stir frying
 - Salt and pepper
