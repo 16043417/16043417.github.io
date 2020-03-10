@@ -138,10 +138,11 @@ ul.recipes li, ul.recipes a {
 @media screen and (max-width:600px) {
 
     body.recipeshome .content {
-      width: 90%;
+      width: 80%;
       padding: 10px;
       margin: 0px auto;
       text-align: justify;
+      border: 5px solid #c69050
     }
 
     body.recipeslist .content {
@@ -149,7 +150,7 @@ ul.recipes li, ul.recipes a {
       padding: 10px;
       margin: 0px auto;
       text-align: justify;
-      font-size: 80%
+      font-size: 90%
     }
 
     body {
