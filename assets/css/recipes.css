@@ -181,6 +181,9 @@ ul.recipes li, ul.recipes a {
 
     img.cover {
       width:100%;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
     }
 
 }
