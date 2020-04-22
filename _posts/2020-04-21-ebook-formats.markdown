@@ -3,7 +3,7 @@ layout: post
 title: eBook Formats
 date: 2020-04-21 18:04
 published: true
-header_feature_image: _uploads\frank-holleman-VEoUWF2iQlQ-unsplash.jpg
+header_feature_image: _uploads/frank-holleman-VEoUWF2iQlQ-unsplash.jpg
 caption:
 tags:
 - eBook
