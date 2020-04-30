@@ -21,6 +21,10 @@ If you want to work in publishing, you can. There’s a role for everyone from e
 
 Finally, here are some websites that offer professional advice and, if you're serious about applying for a publishing job, I'd recommend taking at least a quick look at some:
 
-- https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/media-and-internet/how-to-get-into-publishing
-- https://www.thebalancecareers.com/how-to-get-an-entry-level-book-publishing-job-2800045
-- https://blogs.ucl.ac.uk/ucl-careers/2019/01/04/how-to-get-into-publishing/
+- [https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/media-and-internet/how-to-get-into-publishing][3cc31885]
+- [https://www.thebalancecareers.com/how-to-get-an-entry-level-book-publishing-job-2800045][6887c5f1]
+- [https://blogs.ucl.ac.uk/ucl-careers/2019/01/04/how-to-get-into-publishing/][3ce076ea]
+
+  [3cc31885]: https://www.prospects.ac.uk/jobs-and-work-experience/job-sectors/media-and-internet/how-to-get-into-publishing "Link"
+  [6887c5f1]: https://www.thebalancecareers.com/how-to-get-an-entry-level-book-publishing-job-2800045 "Link"
+  [3ce076ea]: https://blogs.ucl.ac.uk/ucl-careers/2019/01/04/how-to-get-into-publishing/ "Link"
