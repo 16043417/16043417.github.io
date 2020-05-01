@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: 2020 Edition #optional sub title to the post
 permalink: /about/
-header_feature_image:  _uploads/tom-hermans-nM6qrtnVKn8-unsplash.jpg_uploads\tom-hermans-nM6qrtnVKn8-unsplash.jpg
+header_feature_image:  _uploads/tom-hermans-nM6qrtnVKn8-unsplash.jpg
 tags:
 published: true
 description:
