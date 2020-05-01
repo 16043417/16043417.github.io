@@ -42,7 +42,7 @@ description: "The Blog and Recipes of Christopher Rodrigues" # used by search en
 # Change these 2 images for your own site
 
 avatar: _uploads/icon.png
-favicon: _uploads/1200px-Blue_question_mark_icon.png
+favicon: _uploads/icon.png
 
 # Your blog on the home page can be arranged as a grid
 
