@@ -9,4 +9,4 @@ published: true
 description:
 ---
 
-This blog, 'Christopher Rodrigues, 2020' was created for the purpose of, first, creating and sharing a small collection of hand=picked Korean recipes for those interested in exploring the world of East Asian cooking and also to guide readers through various interesting aspects of the publishing industry.
+This blog, 'Christopher Rodrigues, 2020' was created for the purpose of, first, creating and sharing a small collection of hand-picked Korean recipes for those interested in exploring the world of East Asian cooking and also to guide readers through various interesting aspects of the publishing industry.
