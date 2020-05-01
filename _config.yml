@@ -41,8 +41,8 @@ description: "The Blog and Recipes of Christopher Rodrigues" # used by search en
 # SITE-SPECIFIC CONFIGURATION
 # Change these 2 images for your own site
 
-avatar: assets/img/face.jpg
-favicon: assets/favicon.ico
+avatar: _uploads/1200px-Blue_question_mark_icon.svg.png
+favicon: _uploads/1200px-Blue_question_mark_icon.svg.png
 
 # Your blog on the home page can be arranged as a grid
 
