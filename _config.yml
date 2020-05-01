@@ -56,8 +56,8 @@ header_text: The Blog and Recipes of Christopher Rodrigues
 recipecollection: Korean Kitchen
 
 # find an image for your own home page and put it into the images folder
-header_feature_image: /uploads/jon-tyson-HxLrVD55l34-unsplash.jpg
-recipe_bookcover: /uploads/korean_kitchen.jpg
+header_feature_image: /uploads/1200px-Blue_question_mark_icon.svg.png
+recipe_bookcover: /uploads/1200px-Blue_question_mark_icon.svg.png
 
 twitter_username:   #change to your own twitter account
 lang: en_gb
