@@ -20,6 +20,8 @@ The benefits of a simple online article, essay, or book are easy to outline. Ins
 
 But accessibility isn’t the only boon eBooks in education provide. Think of primary and secondary education. Much in the way the interactive whiteboard enhanced the visual learning aspect of teaching, eBooks help engage students from an early age. Interactive feature, multimedia functions, and more adaptive learning experiences: eBooks are used in education to make learning more fun and – more importantly – more effective.
 
+[![eBooks in use in a classroom](//_uploads/free-ebook-to-be-or-not-to-be-the-new-challenges-of-educational-epublishing.jpg)](//_uploads/free-ebook-to-be-or-not-to-be-the-new-challenges-of-educational-epublishing.jpg)
+
 There are, naturally, some issues with the use of eBook in education, all of which need rectifying before anyone can truly, wholeheartedly, recommend eBooks. First and foremost is usability. Most students will say that, whilst they use eBooks for the bulk of their sources, they prefer to have a physical book in front of them when it’s particularly important. The ability to quickly flip through a clearly bookmarked physical copy is one that has yet to be replicated with eBooks. This, combined with the fact that some [studies suggest][a71522bb] students learn less reading eBooks, the awful pricing models publishers use to deliver eBooks to teaching organizations, and the lack of standardization (as discussed in [my last blog post][a4192496]), has prevented eBooks from becoming the dominant source of information education in schools and in higher education.
 
   [a71522bb]: https://www.huffpost.com/entry/print-ebooks-studies_n_6762674 "Link"
