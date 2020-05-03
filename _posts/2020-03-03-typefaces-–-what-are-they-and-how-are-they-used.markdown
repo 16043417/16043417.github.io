@@ -15,7 +15,7 @@ A seemingly simple question to answer, the question of what a typeface is is qui
 
 There are four basic typefaces. **Serif** fonts have small lines or strokes attached to them and are generally thought of as more traditional and sophisticated. Serif fonts are typically used in logos, website text, titles, and printed materials. The most famous of these are Baskerville, Times, Georgia, and Garamond. **Sans-serif** (literally ‘without serif’) do not have these lines and are thus considered more modern looking and clean. The most famous of these are Futura, Gill Sans, Helvetica, and Verdana. Also used in logos, sans-serif fonts are also commonly found in body copy, titles, and small text.
 
-[![The four primary font types](//_uploads/typography-typeface-1024x483.jpg)](//_uploads/typography-typeface-1024x483.jpg)
+[![The four primary font types](/_uploads/typography-typeface-1024x483.jpg)](//_uploads/typography-typeface-1024x483.jpg)
 
 The reason for this is that serifs don’t appear clearly (particularly on screens) when the font is too small. This is especially problematic for titles and so designers will often use sans-serif fonts when they know their content will appear in a smaller, reduced-size format. The fact that serifs make it easier to read text (easier for the eye to follow text, that is) makes the decision over which typeface to use more difficult.
 
