@@ -29,5 +29,8 @@ There are, naturally, some issues with the use of eBook in education, all of whi
 
 eBooks have proven to be extremely useful when used to educate. They have, in many ways, changed students experience with and of the library, and made studying and research easier by extension. But their use doesn’t come without some major issues, some of which will take serious innovation to overcome. Nevertheless, eBooks are, and will remain, a key tool in education for the foreseeable future.
 
-1. https://goodereader.com/blog/e-book-news/80-of-us-schools-use-e-books-or-digital-textbooks
-2. https://journals.sagepub.com/doi/full/10.1177/0961000619841429
+1. [https://goodereader.com/blog/e-book-news/80-of-us-schools-use-e-books-or-digital-textbooks][2a5eb5ec]
+2. [https://journals.sagepub.com/doi/full/10.1177/0961000619841429][f6d3b8b4]
+
+  [2a5eb5ec]: https://goodereader.com/blog/e-book-news/80-of-us-schools-use-e-books-or-digital-textbooks "Link"
+  [f6d3b8b4]: https://journals.sagepub.com/doi/full/10.1177/0961000619841429 "Link"
